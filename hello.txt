@@ -1,5 +1,1 @@
-Hello Github!
-This is my first GitHub practice.
-I changed this file on my PC.
-This is only for test-branch.
-GitHub practice by Kazuyuki Mori.
+This is the conflict-test branch.
