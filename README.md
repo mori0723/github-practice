@@ -26,3 +26,7 @@ git commit
 git push
     ↓
 GitHub
+
+## GitHub実践練習
+
+ブランチを使った開発フローを練習しています。
